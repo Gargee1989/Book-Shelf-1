@@ -1,4 +1,4 @@
-//a code to check if entered character is uppercase or lowercase
+//code to check if entered character is in uppercase or lowercase
 
 #include<stdio.h>
 int main(){
