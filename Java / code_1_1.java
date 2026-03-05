@@ -1,13 +1,12 @@
+// 1. Count Total Number of Characters in a String
+
 import java.util.Scanner;
-
-class CircleArea {
+public class ques1 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.print("Enter the radius of the circle: ");
-        double radius = sc.nextDouble();
-        double area = Math.PI * radius * radius;
-        System.out.println("Area of the circle = " + area);
-
-        sc.close();
+        @SuppressWarnings("resource")
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter a string: ");
+        String str = scanner.nextLine();
+        System.out.println("Total characters: " + str.length());
     }
 }
