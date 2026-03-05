@@ -1,4 +1,4 @@
-// 3. Count Punctuation Characters in a String
+// 2. Count Punctuation Characters in a String
 
 public class ques2 {
     public static void main(String[] args) {
