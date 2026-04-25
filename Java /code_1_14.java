@@ -1,4 +1,4 @@
-// 15. Java Program to find maximum and minimum occurring character in a string
+// 14. Java Program to find maximum and minimum occurring character in a string
 import java.util.HashMap;
 public class ques15 {
     public static void findMaxMinOccurringChars(String str) {
